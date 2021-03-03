@@ -113,6 +113,7 @@ class MoltenBottomNavigationBar extends StatelessWidget {
           children: [
             Container(
               height: barHeight,
+              color: Colors.black,
               decoration: BoxDecoration(
                 color: _barColor,
                 borderRadius: _borderRaduis,
